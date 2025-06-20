@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "f3f73c2f-7e6a-417e-ba05-49a2a8c864b8")
+	(paper "USLetter")
+	(title_block
+		(date "2019-03-06")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

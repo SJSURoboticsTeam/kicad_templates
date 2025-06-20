@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0c21e59d-794e-485a-be66-90b154575fb4")
+	(paper "USLetter")
+	(title_block
+		(rev "1")
+		(comment 1 "Design for JLCPCB Service")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
