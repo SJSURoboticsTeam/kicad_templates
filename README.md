@@ -20,6 +20,11 @@ are directly inside of the template directory.
 3. In the bottom left corner of the opened window, there is a Import Settings from another board.
 4. Select all, then import.
 
+## Usage
+
+When creating a new project, there is a "Create project from Template" option. Go to "User templates,"
+then choose the template depending on context. (For most of our projects, we use JLCPCB 1-2 Layer / JLCPCB 4 Layer)
+
 ## Purpose
 
 Provides a number of additional Board and production house templates for KiCad EDA.
